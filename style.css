@@ -1,0 +1,72 @@
+body{
+    margin: auto;
+    padding: 0vh;
+    font-family:sans-serif;
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    /* background-size: cover; */
+    /* background-position: center; */
+}
+
+
+.sign-up-now{
+    width: 300px; ;
+    box-shadow: 0 0 3px 0 rgb(0,0,0,0.3);
+    background-color: white;
+    padding: 25px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.sign-up-now h1{
+color: rgb(255, 0, 0);
+margin-bottom: 30px;
+}
+
+
+.input-box {
+border-radius: 20px;
+padding: 10px;
+margin: 10px 0; 
+width: 100%;
+border: 1px solid #999;
+outline: none;
+}
+
+button{
+    color: #000000;
+    width: 100%;
+    border-radius:20px ;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline:none;
+    cursor
+}
+
+.btn-sign-up{
+    background-color: #21afde;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin-top: 20px ;
+    width: 80%;
+
+}
+
+.or{
+    background: white;
+    width: 30px;
+    margin: -19px auto 10px;
+
+}
+
+
+img{
+    width: 70px;
+    margin-top: -50px;
+}
